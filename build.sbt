@@ -13,7 +13,7 @@ val resolversList = Seq(
 )
 
 val rediscalaDependencies = {
-  val akkaVersion = "2.4.10"
+  val akkaVersion = "2.4.11"
 
   import sbt._
 
